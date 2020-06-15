@@ -1,4 +1,4 @@
-Write a JAVA program to find out the second-highest element in a given array.
+/* Write a JAVA program to find out the second-highest element in a given array. */
 
 
 import java.io.*;
