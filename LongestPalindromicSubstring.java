@@ -1,7 +1,7 @@
-Write a JAVA Program to display the longest substring of a given string(to be taken from the user) which is Palindrome.
+/* Write a JAVA Program to display the longest substring of a given string(to be taken from the user) which is Palindrome.
 For e.g.
 Input - aaaabbaa
-Output - aabbaa
+Output - aabbaa */
 
 
 import java.io.*;
