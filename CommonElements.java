@@ -1,8 +1,8 @@
-Write a JAVA program to find out all the common elements from two given lists(to be entered by the user).
+/*Write a JAVA program to find out all the common elements from two given lists(to be entered by the user).
 For e.g.
 List1 = [1, 2, 3, 4, 5]
 List2 = [1, 3, 5, 7]
-Output = [1, 3, 5]
+Output = [1, 3, 5] */
 
 
 import java.io.*;
