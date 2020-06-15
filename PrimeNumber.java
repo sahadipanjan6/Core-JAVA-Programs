@@ -1,4 +1,4 @@
-Write a JAVA program to check whether a given number is PRIME or not.
+/* Write a JAVA program to check whether a given number is PRIME or not. */
 
 
 import java.io.*;
