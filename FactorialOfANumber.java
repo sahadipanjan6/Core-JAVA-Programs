@@ -1,7 +1,7 @@
-Write a JAVA program to find out the factorial of a given integer.
+/* Write a JAVA program to find out the factorial of a given integer.
 For e.g.
 Input Number = 5
-Output = 120
+Output = 120 */
 
 
 import java.io.*;
