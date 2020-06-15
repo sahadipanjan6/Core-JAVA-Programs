@@ -1,7 +1,7 @@
-Write a JAVA program to remove all whitespaces from a string without using the replace() function.
+/* Write a JAVA program to remove all whitespaces from a string without using the replace() function.
 For e.g.
 Input String = "Hello World"
-Output String = "HelloWorld"
+Output String = "HelloWorld" */
 
 
 import java.io.*;
