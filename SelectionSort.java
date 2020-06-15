@@ -1,6 +1,6 @@
-Write a JAVA program to sort a given integer array in ascending order using the Selection Sort methodology.
+/* Write a JAVA program to sort a given integer array in ascending order using the Selection Sort methodology.
 Sample Input Array = [5, 4, 3, 2, 1]
-Sample Output Array = [1, 2, 3, 4, 5]
+Sample Output Array = [1, 2, 3, 4, 5] */
 
 
 import java.io.*;
