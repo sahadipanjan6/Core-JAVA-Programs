@@ -1,8 +1,8 @@
-Write a JAVA program to count the number of bits to be flipped to convert one integer into another integer.
+/* Write a JAVA program to count the number of bits to be flipped to convert one integer into another integer.
 For e.g.
 Integer1 = 5
 Integer2 = 6
-Output = 2
+Output = 2 */
 
 
 import java.io.*;
