@@ -1,8 +1,8 @@
-Write a JAVA program to remove all the occurrences of an element(to be taken from the user) in a given list of integers.
+/* Write a JAVA program to remove all the occurrences of an element(to be taken from the user) in a given list of integers.
 For e.g.
 Input List = [1, 5, 6, 2, 5]
 Input Element = 5
-Output List = [1, 6, 2]
+Output List = [1, 6, 2] */
 
 
 import java.io.*;
