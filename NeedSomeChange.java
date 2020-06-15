@@ -1,6 +1,6 @@
-Given an array A of N positive integers. The task is to swap every ith element of the array with (i+2)th element.
+/* Given an array A of N positive integers. The task is to swap every ith element of the array with (i+2)th element.
 Sample Input Array = [1, 2, 3, 4, 5]
-Sample Output Array = [3, 4, 5, 2, 1]
+Sample Output Array = [3, 4, 5, 2, 1] */
 
 
 import java.io.*;
