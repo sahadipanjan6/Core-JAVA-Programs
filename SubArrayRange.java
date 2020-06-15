@@ -1,8 +1,8 @@
-Given an unsorted array arr[] of N integers and a sum. 
+/* Given an unsorted array arr[] of N integers and a sum. 
 The task is to count the number of subarray which adds to a given number.
 Sample Input Array = [10, 2, -2, -20, 10]
 Sum to be checked = -10
-Count of subarrays = 3
+Count of subarrays = 3 */
 
 
 import java.io.*;
