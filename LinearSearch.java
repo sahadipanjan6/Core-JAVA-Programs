@@ -1,7 +1,7 @@
-Write a JAVA program to perform Linear Search of an element in a given integer array.
+/* Write a JAVA program to perform Linear Search of an element in a given integer array.
 Sample Input Array = [5, 4, 3, 2, 1]
 Element to be searched = 3
-Sample Output: 3 is found in index position 2
+Sample Output: 3 is found in index position 2 */
 
 
 import java.io.*;
