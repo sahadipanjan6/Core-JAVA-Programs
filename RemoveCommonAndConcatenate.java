@@ -1,9 +1,9 @@
-Given two strings str1 and str2. Write a JAVA program to modify string str1 such that all the common characters
+/* Given two strings str1 and str2. Write a JAVA program to modify string str1 such that all the common characters
 of str1 and str2 is to be removed and the uncommon characters of str1 and str2 to be concatenated.
 For e.g.
 Input String1 : "aacdb"
 Input String2: "gafd"
-Output String: "cbgf"
+Output String: "cbgf" */
 
 
 import java.io.*;
