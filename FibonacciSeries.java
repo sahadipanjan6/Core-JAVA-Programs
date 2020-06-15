@@ -1,7 +1,7 @@
-Write a JAVA program to display the Fibonacci Series upto n'th term, value of n to be taken from the user.
+/* Write a JAVA program to display the Fibonacci Series upto n'th term, value of n to be taken from the user.
 For e.g.
 Input = 6
-Output = 0 1 1 2 3 5
+Output = 0 1 1 2 3 5 */
 
 
 import java.io.*;
