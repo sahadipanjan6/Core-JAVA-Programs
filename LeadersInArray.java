@@ -1,8 +1,8 @@
-Write a java program to find all the leaders in an integer array. An element is said to be a leader if all the elements on it’s 
+/* Write a java program to find all the leaders in an integer array. An element is said to be a leader if all the elements on it’s 
 right side are smaller than it. Rightmost element is always a leader.
 For e.g. 
 Input Array = [1, 2, 3, 4, 5]
-Leaders are : [5]
+Leaders are : [5] */
 
 
 import java.io.*;
