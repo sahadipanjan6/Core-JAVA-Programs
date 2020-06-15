@@ -1,7 +1,7 @@
-Write a JAVA program to search an element in the given array using the Binary Search methodology.
+/*Write a JAVA program to search an element in the given array using the Binary Search methodology.
 Sample Input Array = [2, 3, 4, 10, 40]
 Search Key = 10
-Sample Output = 10 is present in index position 3.
+Sample Output = 10 is present in index position 3. */
 
 
 import java.io.*;
