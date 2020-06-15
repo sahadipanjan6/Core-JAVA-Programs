@@ -1,6 +1,6 @@
-Write a JAVA Program to accept a string from the user, reverse the string and display in the following format:
+/* Write a JAVA Program to accept a string from the user, reverse the string and display in the following format:
 Sample Input : "EARTH"
-Sample Output: "EARTH | HTRAE"
+Sample Output: "EARTH | HTRAE" */
 
 
 import java.io.*;
