@@ -1,7 +1,7 @@
-Write a JAVA program to reverse a string with preserving the position of spaces. 
+/* Write a JAVA program to reverse a string with preserving the position of spaces. 
 For e.g. 
 Input String = "I Am Not String"
-Output String = "g ni rtS toNmAI"
+Output String = "g ni rtS toNmAI" */
 
 
 import java.io.*;
