@@ -1,8 +1,8 @@
-Write a JAVA program to check whether a given number is an Armstrong Number or not. An Armstrong number is a special type
+/*Write a JAVA program to check whether a given number is an Armstrong Number or not. An Armstrong number is a special type
 of number whose sum of individual digits raised to the power of the number of digits will be equal to the actual number.
 For e.g. 
 Input = 153
-Output = 153 is an Armstrong Number
+Output = 153 is an Armstrong Number*/
 
 
 import java.io.*;
