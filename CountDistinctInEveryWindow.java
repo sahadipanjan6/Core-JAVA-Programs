@@ -1,11 +1,11 @@
-Problem Statement:
+/*Problem Statement:
 
 Given an array A[] of size N and an integer K. Your task is to print the count of distinct numbers in all windows of size k
 in the array A[].
 
 Sample Input Array = [1, 2, 1, 3, 4, 2, 3]
 Window Size = 4
-Sample Output = 3, 4, 4, 3
+Sample Output = 3, 4, 4, 3 */
 
 
 import java.io.*;
