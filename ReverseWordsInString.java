@@ -1,4 +1,4 @@
-Write a JAVA Program to reverse each word in a given sentence(to be taken from the user).
+/* Write a JAVA Program to reverse each word in a given sentence(to be taken from the user). */
 
 import java.io.*;
 import java.util.*;
