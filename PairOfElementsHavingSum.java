@@ -1,8 +1,8 @@
-Write a JAVA program to find all pairs of elements whose sum is equal to given number.
+/* Write a JAVA program to find all pairs of elements whose sum is equal to given number.
 For e.g.
 Input Array = [1, 2, 3, 4, 5, 6]
 Sum to be checked = 7
-Output Pairs = (1, 6), (2, 5), (3, 4)
+Output Pairs = (1, 6), (2, 5), (3, 4) */
 
 
 import java.io.*;
