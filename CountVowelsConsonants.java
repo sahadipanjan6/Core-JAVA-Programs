@@ -1,7 +1,7 @@
-Write a JAVA Program to count the number of vowels and consonants present in a given string(to be taken from the user).
+/*Write a JAVA Program to count the number of vowels and consonants present in a given string(to be taken from the user).
 For e.g.
 Input = "Dipanjan"
-Output: Number of Vowels = 3, Number of Consonants = 5
+Output: Number of Vowels = 3, Number of Consonants = 5 */
 
 
 import java.io.*;
