@@ -1,7 +1,7 @@
-Write a JAVA program to find all such triplets in a given integer array whose sum will be equal to a given total.
+/* Write a JAVA program to find all such triplets in a given integer array whose sum will be equal to a given total.
 Sample Input Array = [1, 2, 3, 4, 5]
 Sum to be checked = 6
-Sample Output Triplet = (1, 2, 3)
+Sample Output Triplet = (1, 2, 3) */
 
 
 import java.io.*;
